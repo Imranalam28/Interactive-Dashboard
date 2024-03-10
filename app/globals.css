@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* styles/globals.css */
+:root {
+  /* Light theme colors */
+  --background-color: #ffffff;
+  --text-color: #000000;
+  --header-bg-color: #f0f0f0;
+  --footer-bg-color: #dddddd;
+}
+
+[data-theme='dark'] {
+  /* Dark theme colors */
+  --background-color: #363537;
+  --text-color: #FAFAFA;
+  --header-bg-color: #242423;
+  --footer-bg-color: #181818;
+}

@@ -1,0 +1,109 @@
+[
+    {
+      "productId": "P001",
+      "productName": "Product A",
+      "salesData": [
+        {"month": "2023-04-01", "sales": 80,  "expenses": 1200, "revenue": 2000},
+        {"month": "2023-05-01", "sales": 100, "expenses": 1500, "revenue": 2500},
+        {"month": "2023-06-01", "sales": 120, "expenses": 1700, "revenue": 3000},
+        {"month": "2023-07-01", "sales": 110, "expenses": 1600, "revenue": 2900},
+        {"month": "2023-08-01", "sales": 130, "expenses": 1800, "revenue": 3100},
+        {"month": "2023-09-01", "sales": 140, "expenses": 1900, "revenue": 3200},
+        {"month": "2023-10-01", "sales": 150, "expenses": 2000, "revenue": 3300},
+        {"month": "2023-11-01", "sales": 160, "expenses": 2100, "revenue": 3400},
+        {"month": "2023-12-01", "sales": 170, "expenses": 2200, "revenue": 3500},
+        {"month": "2024-01-01", "sales": 180, "expenses": 2300, "revenue": 3600},
+        {"month": "2024-02-01", "sales": 190, "expenses": 2400, "revenue": 3700},
+        {"month": "2024-03-01", "sales": 200, "expenses": 2500, "revenue": 3800}
+      ],
+      "quantityLeft": 100,
+      "overallStocks": 800,
+      "customerEngagement": {"views": 10000, "clicks": 500, "purchases": 600},
+      "productComposition": {
+        "Cotton": 10,
+        "Wool": 80,
+        "Polyester": 10
+      }
+    },
+    {
+        "productId": "P002",
+        "productName": "Product B",
+        "salesData": [
+          {"month": "2023-04-01", "sales": 75,  "expenses": 1100, "revenue": 1900},
+          {"month": "2023-05-01", "sales": 95,  "expenses": 1400, "revenue": 2400},
+          {"month": "2023-06-01", "sales": 115, "expenses": 1650, "revenue": 2950},
+          {"month": "2023-07-01", "sales": 105, "expenses": 1550, "revenue": 2850},
+          {"month": "2023-08-01", "sales": 125, "expenses": 1750, "revenue": 3050},
+          {"month": "2023-09-01", "sales": 135, "expenses": 1850, "revenue": 3150},
+          {"month": "2023-10-01", "sales": 145, "expenses": 1950, "revenue": 3250},
+          {"month": "2023-11-01", "sales": 155, "expenses": 2050, "revenue": 3350},
+          {"month": "2023-12-01", "sales": 165, "expenses": 2150, "revenue": 3450},
+          {"month": "2024-01-01", "sales": 175, "expenses": 2250, "revenue": 3550},
+          {"month": "2024-02-01", "sales": 185, "expenses": 2350, "revenue": 3650},
+          {"month": "2024-03-01", "sales": 195, "expenses": 2450, "revenue": 3750}
+        ],
+        "quantityLeft": 90,
+        "overallStocks": 700,
+        "customerEngagement": {"views": 9500, "clicks": 480, "purchases": 580},
+        "productComposition": {
+          "Cotton": 40,
+          "Wool": 30,
+          "Polyester": 30
+        }
+      },
+      {
+        "productId": "P003",
+        "productName": "Product C",
+        "salesData": [
+          {"month": "2023-04-01", "sales": 85,  "expenses": 1250, "revenue": 2100},
+          {"month": "2023-05-01", "sales": 105, "expenses": 1600, "revenue": 2600},
+          {"month": "2023-06-01", "sales": 125, "expenses": 1800, "revenue": 3200},
+          {"month": "2023-07-01", "sales": 115, "expenses": 1700, "revenue": 3100},
+          {"month": "2023-08-01", "sales": 135, "expenses": 1900, "revenue": 3300},
+          {"month": "2023-09-01", "sales": 145, "expenses": 2000, "revenue": 3400},
+          {"month": "2023-10-01", "sales": 155, "expenses": 2100, "revenue": 3500},
+          {"month": "2023-11-01", "sales": 165, "expenses": 2200, "revenue": 3600},
+          {"month": "2023-12-01", "sales": 175, "expenses": 2300, "revenue": 3700},
+          {"month": "2024-01-01", "sales": 185, "expenses": 2400, "revenue": 3800},
+          {"month": "2024-02-01", "sales": 195, "expenses": 2500, "revenue": 3900},
+          {"month": "2024-03-01", "sales": 205, "expenses": 2600, "revenue": 4000}
+        ],
+        "quantityLeft": 110,
+        "overallStocks": 900,
+        "customerEngagement": {"views": 10500, "clicks": 520, "purchases": 620},
+        "productComposition": {
+          "Cotton": 10,
+          "Wool": 50,
+          "Polyester": 40
+        }
+      },
+      {
+        "productId": "P004",
+        "productName": "Product D",
+        "salesData": [
+          {"month": "2023-04-01", "sales": 60,  "expenses": 1000, "revenue": 1800},
+          {"month": "2023-05-01", "sales": 80,  "expenses": 1300, "revenue": 2300},
+          {"month": "2023-06-01", "sales": 100, "expenses": 1500, "revenue": 2800},
+          {"month": "2023-07-01", "sales": 90,  "expenses": 1400, "revenue": 2700},
+          {"month": "2023-08-01", "sales": 110, "expenses": 1600, "revenue": 2900},
+          {"month": "2023-09-01", "sales": 120, "expenses": 1700, "revenue": 3000},
+          {"month": "2023-10-01", "sales": 130, "expenses": 1800, "revenue": 3100},
+          {"month": "2023-11-01", "sales": 140, "expenses": 1900, "revenue": 3200},
+          {"month": "2023-12-01", "sales": 150, "expenses": 2000, "revenue": 3300},
+          {"month": "2024-01-01", "sales": 160, "expenses": 2100, "revenue": 3400},
+          {"month": "2024-02-01", "sales": 170, "expenses": 2200, "revenue": 3500},
+          {"month": "2024-03-01", "sales": 180, "expenses": 2300, "revenue": 3600}
+        ],
+        "quantityLeft": 70,
+        "overallStocks": 600,
+        "customerEngagement": {"views": 8500, "clicks": 450, "purchases": 550},
+        "productComposition": {
+          "Cotton": 20,
+          "Wool": 20,
+          "Polyester": 60
+        }
+    }
+  ]
+    
+  
+  
